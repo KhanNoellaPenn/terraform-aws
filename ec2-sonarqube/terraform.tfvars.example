@@ -1,0 +1,5 @@
+ami           = ""
+instance_type = ""
+tags          = ""
+port          = 9000
+vpc_id        = ""
